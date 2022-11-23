@@ -22,7 +22,7 @@ body{
 section{
     color: white;
     padding: 20px;
-    background-image: url('/placa-de-captura-main/assets/people.jpg');
+    background-image: url('./placa-de-captura-main/assets/people.jpg');
     background-size: cover;
     overflow: hidden;
 }
@@ -48,7 +48,7 @@ select{
     appearance: none;
     -moz-appearance: none;
     -webkit-appearance: none;
-    background-image: url('/placa-de-captura-main/assets/arrow.jpg');
+    background-image: url('./placa-de-captura-main/assets/arrow.jpg');
     background-repeat: no-repeat;
     background-position-x: calc( 100% - 10px );
     background-position-y: center;
